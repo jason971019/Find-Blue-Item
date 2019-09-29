@@ -56,4 +56,5 @@ while(1):
 cap.release()
 cv2.destroyAllWindows()
 ```
+## Result
 ![image](https://github.com/jason971019/Find-Blue-Item/blob/master/demo.png)
